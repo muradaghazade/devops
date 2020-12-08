@@ -343,7 +343,6 @@ a:hover {
     /* border-bottom: 1px solid #e6e6e6; */
     background-color: white;
     margin-top: 150px;
-    box-shadow: 0 .1rem .5rem rgba(0, 0, 0, 0.287);
 }
 .events-header {
     color: black;
@@ -360,7 +359,7 @@ a:hover {
 .events-image {
     border-radius: 50%;
     width: 100%;
-    box-shadow: 0 .1rem .5rem rgba(0, 0, 0, 0.431)}
+  }
 .bem {
     border-radius: 50%;
     width: 50%;
@@ -441,6 +440,10 @@ a:hover {
 }
 .sup-logo {
     width: 100px;
+}
+.logoN{
+    width: 400px !important;
+    height: 400px;
 }
 .g-h-text {
     color: white;
