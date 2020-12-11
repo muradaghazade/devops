@@ -697,7 +697,9 @@ a:hover {
 .event-desc:not(:last-child){
     border-bottom:1px solid rgba(87, 45, 45, 0.13); 
 }
-
+.event-desc:hover{
+    background-color:rgb(211, 234, 255);
+}
 .event-desc span{
     color:rgb(155, 15, 34);
     margin-right:20px ;
