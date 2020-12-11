@@ -587,6 +587,17 @@ a:hover {
         margin-top: -100px;
     }
 
+    .logoN{
+        width:280px !important;
+        height: 280px !important;
+    }
+
+    .logoN-w{
+        width:260px !important;
+        height: 160px !important;
+    }
+
+
 }
 @media (max-width: 360px) {
     .header-container h1{
@@ -634,6 +645,16 @@ a:hover {
     .silk-hero {
         width: 100%;
         margin-top: -100px;
+    }
+
+    .logoN{
+        width:280px !important;
+        height: 280px !important;
+    }
+
+    .logoN-w{
+        width:260px !important;
+        height: 160px !important;
     }
 
 }
