@@ -445,6 +445,11 @@ a:hover {
     width: 400px !important;
     height: 400px;
 }
+
+.logoN-w{
+    width: 460px !important;
+    height: 200px!important;
+}
 .g-h-text {
     color: white;
 }
